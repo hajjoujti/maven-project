@@ -4,7 +4,6 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
-  
   private int number;
 
   /**
