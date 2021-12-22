@@ -4,6 +4,8 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
+  
+  public int number;
 
   /**
    * This is a constructor.
