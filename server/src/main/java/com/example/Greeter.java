@@ -5,11 +5,6 @@ package com.example;
  */
 public class Greeter {
   /**
-   * This is a variable.
-   */
-  private int number;
-
-  /**
    * This is a constructor.
    */
   public Greeter() {
